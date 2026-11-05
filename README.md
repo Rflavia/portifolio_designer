@@ -1,18 +1,5 @@
 # Flávia Rosa | Portfólio de Design Editorial
 
-## Páginas
-- `index.html` — apresentação e três projetos em destaque.
-- `trabalhos.html` — quatro projetos com imagens ampliáveis e descrições.
-- `assets/Curriculo_Flavia_Rosa.pdf` — currículo direcionado à diagramação editorial.
-
-## Projetos
-1. Livro Pré-UnB — participação creditada na equipe de diagramação.
-2. Apostilas de História — composição de páginas e organização de conteúdo.
-3. Simulado PAS — diagramação de questões, gráficos e fórmulas.
-4. Cartão motivacional — peça institucional impressa.
-
-## Tecnologias
-HTML5, CSS3, JavaScript e GitHub Pages. O site não exige compilação: basta abrir `index.html` no navegador.
 
 ## Publicação
 Repositório de design: `Rflavia/portifolio_designer`.
