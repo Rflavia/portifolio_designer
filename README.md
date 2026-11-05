@@ -1,7 +1,5 @@
 # Flávia Rosa | Portfólio de Design Editorial
 
-Portfólio profissional de **Flávia Rosa**, diagramadora e webdesigner em Brasília/DF, com seleção de trabalhos editoriais reais.
-
 ## Páginas
 - `index.html` — apresentação e três projetos em destaque.
 - `trabalhos.html` — quatro projetos com imagens ampliáveis e descrições.
