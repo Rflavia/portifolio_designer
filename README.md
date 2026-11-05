@@ -1,4 +1,4 @@
-# Flávia Rosa · Design Editorial
+# Flávia Rosa · Design Editorial.
 
 Portfólio de diagramação e design editorial: livros, apostilas, simulados e materiais gráficos impressos.
 
